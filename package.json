@@ -1,0 +1,26 @@
+{
+  "name": "flowershop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linhnguyenviet/FlowerShop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linhnguyenviet/FlowerShop/issues"
+  },
+  "homepage": "https://github.com/linhnguyenviet/FlowerShop#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "react-redux": "^7.0.3",
+    "react-router": "^5.0.0",
+    "redux": "^4.0.1"
+  }
+}
